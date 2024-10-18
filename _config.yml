@@ -30,9 +30,11 @@ url: "https://matlakow.github.io" # the base hostname & protocol for your site, 
 github_username:  matlakow
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 future: true
 
