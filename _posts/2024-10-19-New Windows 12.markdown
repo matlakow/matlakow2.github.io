@@ -1,8 +1,0 @@
----
-layout: post
-title:  "New Windows 12"
-date:   2024-10-19 16:04:03 +0200
-categories: jekyll update
----
-to jest post
-
