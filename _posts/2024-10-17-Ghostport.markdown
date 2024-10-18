@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Old Post"
+title:  "Ghostport"
 date:   2024-10-17 11:04:03 +0200
 categories: Ghostport scan port
 ---
