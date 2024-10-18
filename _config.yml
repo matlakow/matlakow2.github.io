@@ -30,7 +30,7 @@ url: "https://matlakow.github.io" # the base hostname & protocol for your site, 
 github_username:  matlakow
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
 
