@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hyper-V in Windows 10 and Windows 11 Home Edition.md"
-date:   2024-10-19 16:04:03 +0200
+date:   2024-10-16 16:04:03 +0200
 categories: hyper-v windows
 ---
 # Hyper-V in Windows 10 and Windows 11 Home Edition
